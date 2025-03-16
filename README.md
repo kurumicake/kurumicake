@@ -6,9 +6,7 @@ There’s nothing more satisfying than seeing a creation come to life! I'm alway
 
 ## 🌐 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(1);" onerror="this.style.filter='invert(0)';"/>](https://www.linkedin.com/in/ho-ching-wan/) &nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firefox.svg" alt="Portfolio" width="30" height="30" style="filter: invert(1);" onerror="this.style.filter='invert(0)';"/>](your-portfolio-url) &nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(1);" onerror="this.style.filter='invert(0)';"/>](mailto:christy.wan.965@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-ching-wan/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christy.wan.965@gmail.com)
 
 ## 🛠 Tech Stack & Tools
 
